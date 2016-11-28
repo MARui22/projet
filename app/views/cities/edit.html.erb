@@ -2,5 +2,8 @@
 
 <%= render 'form' %>
 
-<%= link_to 'Show', @city %> |
-<%= link_to 'Back', cities_path %>
+<div class="btn-defaut">
+  <button type="button" class="btn btn-default btn-info"><%= link_to 'Show', @city %></button>
+  <button type="button" class="btn btn-default btn-success"><%= link_to 'Back', cities_path %></button>
+ 
+</div> 

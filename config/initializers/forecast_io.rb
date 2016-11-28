@@ -1,1 +1,1 @@
-ForecastIO.api_key = '018425caae3ef02bcfbcd2f2c21b3f4f'
+ForecastIO.api_key = '01cea1fb18f3b0dc58c4f3b7fe22f4fc'

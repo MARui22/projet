@@ -11,3 +11,4 @@ class StudentTest < ActiveSupport::TestCase
     assert_equal joe.major?, true
   end
 end
+

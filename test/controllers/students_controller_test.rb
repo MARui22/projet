@@ -47,3 +47,4 @@ class StudentsControllerTest < ActionController::TestCase
     assert_redirected_to students_path
   end
 end
+
